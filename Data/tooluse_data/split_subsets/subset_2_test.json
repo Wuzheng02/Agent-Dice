@@ -1,0 +1,2790 @@
+[
+  {
+    "id": 2263,
+    "tools": [
+      "Get Cities by Homicide Rate"
+    ]
+  },
+  {
+    "id": 7964,
+    "tools": [
+      "getTraditionalDanceInfo"
+    ]
+  },
+  {
+    "id": 9706,
+    "tools": [
+      "getCacheSize"
+    ]
+  },
+  {
+    "id": 2380,
+    "tools": [
+      "predictNextPurchase"
+    ]
+  },
+  {
+    "id": 9522,
+    "tools": [
+      "Get Company People"
+    ]
+  },
+  {
+    "id": 9169,
+    "tools": [
+      "VisualComfortSettings.apply"
+    ]
+  },
+  {
+    "id": 4887,
+    "tools": [
+      "getGenderStats"
+    ]
+  },
+  {
+    "id": 8970,
+    "tools": [
+      "Get Delivery Report"
+    ]
+  },
+  {
+    "id": 8550,
+    "tools": [
+      "Compile C++ 14 Code"
+    ]
+  },
+  {
+    "id": 10331,
+    "tools": [
+      "Create a Live Stream"
+    ]
+  },
+  {
+    "id": 5030,
+    "tools": [
+      "calculate_celsius_to_fahrenheit"
+    ]
+  },
+  {
+    "id": 6776,
+    "tools": [
+      "Baseball Match Statistics"
+    ]
+  },
+  {
+    "id": 3098,
+    "tools": [
+      "get_per_game_regular_season_by_id"
+    ]
+  },
+  {
+    "id": 10825,
+    "tools": [
+      "checkBuildingCodeCompliance"
+    ]
+  },
+  {
+    "id": 6888,
+    "tools": [
+      "Get Popular Airline Routes"
+    ]
+  },
+  {
+    "id": 2901,
+    "tools": [
+      "audioEnhancer.applyFilters"
+    ]
+  },
+  {
+    "id": 9873,
+    "tools": [
+      "Get Sailors"
+    ]
+  },
+  {
+    "id": 10325,
+    "tools": [
+      "astronomy.constellationFinder"
+    ]
+  },
+  {
+    "id": 1682,
+    "tools": [
+      "Team Season Statistics"
+    ]
+  },
+  {
+    "id": 8132,
+    "tools": [
+      "playRadio"
+    ]
+  },
+  {
+    "id": 5406,
+    "tools": [
+      "getImage"
+    ]
+  },
+  {
+    "id": 9157,
+    "tools": [
+      "DeFiLiquidityTracker.trackPoolChanges"
+    ]
+  },
+  {
+    "id": 8619,
+    "tools": [
+      "getOrderById"
+    ]
+  },
+  {
+    "id": 10915,
+    "tools": [
+      "getAirQuality"
+    ]
+  },
+  {
+    "id": 2629,
+    "tools": [
+      "getDataSize"
+    ]
+  },
+  {
+    "id": 6029,
+    "tools": [
+      "ProductVisibilityManager.updateVisibilitySchedule"
+    ]
+  },
+  {
+    "id": 7932,
+    "tools": [
+      "Get Anime by ID"
+    ]
+  },
+  {
+    "id": 2343,
+    "tools": [
+      "rgb_to_hsv"
+    ]
+  },
+  {
+    "id": 3348,
+    "tools": [
+      "getNeurocognitiveDisorders"
+    ]
+  },
+  {
+    "id": 7513,
+    "tools": [
+      "getEtchRate"
+    ]
+  },
+  {
+    "id": 7393,
+    "tools": [
+      "Transform Image"
+    ]
+  },
+  {
+    "id": 4913,
+    "tools": [
+      "PublicTransitFeedback.submitComplaint"
+    ]
+  },
+  {
+    "id": 2038,
+    "tools": [
+      "JavaDiskAnalyzer.analyzeDiskUsage"
+    ]
+  },
+  {
+    "id": 9012,
+    "tools": [
+      "getStudyHabits"
+    ]
+  },
+  {
+    "id": 9435,
+    "tools": [
+      "getEmployeeInfo"
+    ]
+  },
+  {
+    "id": 2132,
+    "tools": [
+      "dbStatsAggregator.aggregateMonthlyPerformance"
+    ]
+  },
+  {
+    "id": 4191,
+    "tools": [
+      "submitServiceRequest"
+    ]
+  },
+  {
+    "id": 6550,
+    "tools": [
+      "PropertyValuation.getMarketValue"
+    ]
+  },
+  {
+    "id": 1620,
+    "tools": [
+      "machine.set_film_tension"
+    ]
+  },
+  {
+    "id": 9133,
+    "tools": [
+      "backorders"
+    ]
+  },
+  {
+    "id": 6800,
+    "tools": [
+      "enrollInCourse"
+    ]
+  },
+  {
+    "id": 7135,
+    "tools": [
+      "GetProducts"
+    ]
+  },
+  {
+    "id": 7672,
+    "tools": [
+      "getLanguageDetection"
+    ]
+  },
+  {
+    "id": 3968,
+    "tools": [
+      "calculate_vat"
+    ]
+  },
+  {
+    "id": 3068,
+    "tools": [
+      "getWebhookResult"
+    ]
+  },
+  {
+    "id": 2144,
+    "tools": [
+      "getPharmaceuticalConsultingServices"
+    ]
+  },
+  {
+    "id": 9756,
+    "tools": [
+      "poetry.generate_sonnet"
+    ]
+  },
+  {
+    "id": 9936,
+    "tools": [
+      "Get Team Setup Progress"
+    ]
+  },
+  {
+    "id": 1761,
+    "tools": [
+      "Football Player Attributes"
+    ]
+  },
+  {
+    "id": 8312,
+    "tools": [
+      "compare_poses"
+    ]
+  },
+  {
+    "id": 3610,
+    "tools": [
+      "primeFactorsDecomposition"
+    ]
+  },
+  {
+    "id": 3516,
+    "tools": [
+      "assignTask"
+    ]
+  },
+  {
+    "id": 2162,
+    "tools": [
+      "Get Prematch List"
+    ]
+  },
+  {
+    "id": 7454,
+    "tools": [
+      "Get Product Reviews"
+    ]
+  },
+  {
+    "id": 7205,
+    "tools": [
+      "fetch_travel_routes"
+    ]
+  },
+  {
+    "id": 9099,
+    "tools": [
+      "EcosystemHealth.analyzeImpact"
+    ]
+  },
+  {
+    "id": 8509,
+    "tools": [
+      "getCountryByPhoneNumber"
+    ]
+  },
+  {
+    "id": 4819,
+    "tools": [
+      "LogEntryManager.processLogEntries"
+    ]
+  },
+  {
+    "id": 7404,
+    "tools": [
+      "send_notification"
+    ]
+  },
+  {
+    "id": 4535,
+    "tools": [
+      "wastewaterTreatment.processMonitoring"
+    ]
+  },
+  {
+    "id": 2936,
+    "tools": [
+      "DiceRollSimulator.calculateSumProbability"
+    ]
+  },
+  {
+    "id": 8654,
+    "tools": [
+      "check_file_exists"
+    ]
+  },
+  {
+    "id": 7991,
+    "tools": [
+      "earthquakeRiskAssessment"
+    ]
+  },
+  {
+    "id": 1902,
+    "tools": [
+      "getHIPAAComplianceStatus"
+    ]
+  },
+  {
+    "id": 7014,
+    "tools": [
+      "getBlock"
+    ]
+  },
+  {
+    "id": 4390,
+    "tools": [
+      "getNearestFoodPantry"
+    ]
+  },
+  {
+    "id": 11226,
+    "tools": [
+      "Home Feed"
+    ]
+  },
+  {
+    "id": 5015,
+    "tools": [
+      "American Football Team Near Matches"
+    ]
+  },
+  {
+    "id": 6217,
+    "tools": [
+      "calculate_loan_payments"
+    ]
+  },
+  {
+    "id": 4838,
+    "tools": [
+      "Ice Hockey League Away Standings"
+    ]
+  },
+  {
+    "id": 9151,
+    "tools": [
+      "recordCall"
+    ]
+  },
+  {
+    "id": 9870,
+    "tools": [
+      "find_closest_gas_station"
+    ]
+  },
+  {
+    "id": 5382,
+    "tools": [
+      "Unit Converter"
+    ]
+  },
+  {
+    "id": 3153,
+    "tools": [
+      "generate_yoga_sequence"
+    ]
+  },
+  {
+    "id": 5088,
+    "tools": [
+      "FootballUEFAClubRankings"
+    ]
+  },
+  {
+    "id": 6062,
+    "tools": [
+      "getLanguageFamily"
+    ]
+  },
+  {
+    "id": 3931,
+    "tools": [
+      "analyze_stock_portfolio"
+    ]
+  },
+  {
+    "id": 10199,
+    "tools": [
+      "familyCounseling.initiateCounseling"
+    ]
+  },
+  {
+    "id": 9549,
+    "tools": [
+      "checkSSL"
+    ]
+  },
+  {
+    "id": 9643,
+    "tools": [
+      "getSustainableTourismData"
+    ]
+  },
+  {
+    "id": 7999,
+    "tools": [
+      "Get 52 Week High by Fundamental for Country"
+    ]
+  },
+  {
+    "id": 6095,
+    "tools": [
+      "EfficiencyTracker.trackUtilizationRate"
+    ]
+  },
+  {
+    "id": 6602,
+    "tools": [
+      "youthLeadership.evaluateProgress"
+    ]
+  },
+  {
+    "id": 10257,
+    "tools": [
+      "waterProject.fundingOpportunities"
+    ]
+  },
+  {
+    "id": 6561,
+    "tools": [
+      "appetizer/ingredient"
+    ]
+  },
+  {
+    "id": 9492,
+    "tools": [
+      "maya.render_scene"
+    ]
+  },
+  {
+    "id": 4194,
+    "tools": [
+      "StockDataFetcher.getHistoricalPrices"
+    ]
+  },
+  {
+    "id": 5489,
+    "tools": [
+      "searchLawsByName"
+    ]
+  },
+  {
+    "id": 11259,
+    "tools": [
+      "resource_allocation.optimize"
+    ]
+  },
+  {
+    "id": 6461,
+    "tools": [
+      "getPdf"
+    ]
+  },
+  {
+    "id": 8037,
+    "tools": [
+      "privacy.get_ccpa_violation_records"
+    ]
+  },
+  {
+    "id": 7125,
+    "tools": [
+      "DowntimeAnalyzer.analyzeFailurePatterns"
+    ]
+  },
+  {
+    "id": 4712,
+    "tools": [
+      "getCourseProgress"
+    ]
+  },
+  {
+    "id": 5434,
+    "tools": [
+      "VideoCategories"
+    ]
+  },
+  {
+    "id": 3434,
+    "tools": [
+      "GET Valorant User Information"
+    ]
+  },
+  {
+    "id": 5752,
+    "tools": [
+      "DownloadVideo"
+    ]
+  },
+  {
+    "id": 6488,
+    "tools": [
+      "plantEvolutionAnalyzer.analyzeGeneticDiversity"
+    ]
+  },
+  {
+    "id": 8419,
+    "tools": [
+      "crisis_communication.get_trending_topics"
+    ]
+  },
+  {
+    "id": 8249,
+    "tools": [
+      "calculateInsurancePremium"
+    ]
+  },
+  {
+    "id": 10343,
+    "tools": [
+      "ecoImpactAnalyzer.calculate"
+    ]
+  },
+  {
+    "id": 1758,
+    "tools": [
+      "/api/currenciesAvailable"
+    ]
+  },
+  {
+    "id": 1960,
+    "tools": [
+      "getGroupFitnessClasses"
+    ]
+  },
+  {
+    "id": 4270,
+    "tools": [
+      "Peru Songs API"
+    ]
+  },
+  {
+    "id": 8468,
+    "tools": [
+      "neuroDataCollector"
+    ]
+  },
+  {
+    "id": 8317,
+    "tools": [
+      "getAntifungalSusceptibility"
+    ]
+  },
+  {
+    "id": 1511,
+    "tools": [
+      "cnc.turning_operation_monitor"
+    ]
+  },
+  {
+    "id": 1094,
+    "tools": []
+  },
+  {
+    "id": 1269,
+    "tools": []
+  },
+  {
+    "id": 1163,
+    "tools": []
+  },
+  {
+    "id": 9717,
+    "tools": []
+  },
+  {
+    "id": 4532,
+    "tools": []
+  },
+  {
+    "id": 1177,
+    "tools": []
+  },
+  {
+    "id": 992,
+    "tools": []
+  },
+  {
+    "id": 1099,
+    "tools": []
+  },
+  {
+    "id": 1161,
+    "tools": []
+  },
+  {
+    "id": 804,
+    "tools": []
+  },
+  {
+    "id": 6476,
+    "tools": []
+  },
+  {
+    "id": 1293,
+    "tools": []
+  },
+  {
+    "id": 1045,
+    "tools": []
+  },
+  {
+    "id": 824,
+    "tools": []
+  },
+  {
+    "id": 819,
+    "tools": []
+  },
+  {
+    "id": 1253,
+    "tools": []
+  },
+  {
+    "id": 941,
+    "tools": []
+  },
+  {
+    "id": 845,
+    "tools": []
+  },
+  {
+    "id": 4702,
+    "tools": []
+  },
+  {
+    "id": 1218,
+    "tools": []
+  },
+  {
+    "id": 863,
+    "tools": []
+  },
+  {
+    "id": 1086,
+    "tools": []
+  },
+  {
+    "id": 9653,
+    "tools": []
+  },
+  {
+    "id": 885,
+    "tools": []
+  },
+  {
+    "id": 1027,
+    "tools": []
+  },
+  {
+    "id": 9295,
+    "tools": []
+  },
+  {
+    "id": 924,
+    "tools": []
+  },
+  {
+    "id": 1076,
+    "tools": []
+  },
+  {
+    "id": 970,
+    "tools": []
+  },
+  {
+    "id": 3520,
+    "tools": []
+  },
+  {
+    "id": 882,
+    "tools": []
+  },
+  {
+    "id": 1232,
+    "tools": []
+  },
+  {
+    "id": 1217,
+    "tools": []
+  },
+  {
+    "id": 1186,
+    "tools": []
+  },
+  {
+    "id": 828,
+    "tools": []
+  },
+  {
+    "id": 2065,
+    "tools": []
+  },
+  {
+    "id": 11175,
+    "tools": []
+  },
+  {
+    "id": 1282,
+    "tools": []
+  },
+  {
+    "id": 1047,
+    "tools": []
+  },
+  {
+    "id": 971,
+    "tools": []
+  },
+  {
+    "id": 1108,
+    "tools": []
+  },
+  {
+    "id": 1102,
+    "tools": []
+  },
+  {
+    "id": 6591,
+    "tools": []
+  },
+  {
+    "id": 957,
+    "tools": []
+  },
+  {
+    "id": 3432,
+    "tools": []
+  },
+  {
+    "id": 947,
+    "tools": []
+  },
+  {
+    "id": 7482,
+    "tools": []
+  },
+  {
+    "id": 5165,
+    "tools": []
+  },
+  {
+    "id": 857,
+    "tools": []
+  },
+  {
+    "id": 5314,
+    "tools": []
+  },
+  {
+    "id": 934,
+    "tools": []
+  },
+  {
+    "id": 999,
+    "tools": []
+  },
+  {
+    "id": 972,
+    "tools": []
+  },
+  {
+    "id": 9640,
+    "tools": []
+  },
+  {
+    "id": 1178,
+    "tools": []
+  },
+  {
+    "id": 1057,
+    "tools": []
+  },
+  {
+    "id": 1128,
+    "tools": []
+  },
+  {
+    "id": 1023,
+    "tools": []
+  },
+  {
+    "id": 6097,
+    "tools": []
+  },
+  {
+    "id": 899,
+    "tools": []
+  },
+  {
+    "id": 1255,
+    "tools": []
+  },
+  {
+    "id": 1044,
+    "tools": []
+  },
+  {
+    "id": 3998,
+    "tools": []
+  },
+  {
+    "id": 11115,
+    "tools": []
+  },
+  {
+    "id": 1191,
+    "tools": []
+  },
+  {
+    "id": 9708,
+    "tools": []
+  },
+  {
+    "id": 3159,
+    "tools": []
+  },
+  {
+    "id": 1061,
+    "tools": []
+  },
+  {
+    "id": 1004,
+    "tools": []
+  },
+  {
+    "id": 8874,
+    "tools": []
+  },
+  {
+    "id": 1171,
+    "tools": []
+  },
+  {
+    "id": 1103,
+    "tools": []
+  },
+  {
+    "id": 939,
+    "tools": []
+  },
+  {
+    "id": 1078,
+    "tools": []
+  },
+  {
+    "id": 3883,
+    "tools": []
+  },
+  {
+    "id": 1114,
+    "tools": []
+  },
+  {
+    "id": 1011,
+    "tools": []
+  },
+  {
+    "id": 847,
+    "tools": []
+  },
+  {
+    "id": 9976,
+    "tools": []
+  },
+  {
+    "id": 1017,
+    "tools": []
+  },
+  {
+    "id": 1085,
+    "tools": []
+  },
+  {
+    "id": 6668,
+    "tools": []
+  },
+  {
+    "id": 4129,
+    "tools": []
+  },
+  {
+    "id": 3720,
+    "tools": []
+  },
+  {
+    "id": 1219,
+    "tools": []
+  },
+  {
+    "id": 816,
+    "tools": []
+  },
+  {
+    "id": 902,
+    "tools": []
+  },
+  {
+    "id": 1125,
+    "tools": []
+  },
+  {
+    "id": 1213,
+    "tools": []
+  },
+  {
+    "id": 1137,
+    "tools": []
+  },
+  {
+    "id": 977,
+    "tools": []
+  },
+  {
+    "id": 1277,
+    "tools": []
+  },
+  {
+    "id": 1297,
+    "tools": []
+  },
+  {
+    "id": 974,
+    "tools": []
+  },
+  {
+    "id": 1145,
+    "tools": []
+  },
+  {
+    "id": 1074,
+    "tools": []
+  },
+  {
+    "id": 3842,
+    "tools": []
+  },
+  {
+    "id": 859,
+    "tools": []
+  },
+  {
+    "id": 1034,
+    "tools": []
+  },
+  {
+    "id": 989,
+    "tools": []
+  },
+  {
+    "id": 5680,
+    "tools": []
+  },
+  {
+    "id": 887,
+    "tools": []
+  },
+  {
+    "id": 10586,
+    "tools": []
+  },
+  {
+    "id": 1121,
+    "tools": []
+  },
+  {
+    "id": 1153,
+    "tools": []
+  },
+  {
+    "id": 1100,
+    "tools": []
+  },
+  {
+    "id": 1055,
+    "tools": []
+  },
+  {
+    "id": 2816,
+    "tools": []
+  },
+  {
+    "id": 1142,
+    "tools": []
+  },
+  {
+    "id": 10891,
+    "tools": []
+  },
+  {
+    "id": 1127,
+    "tools": []
+  },
+  {
+    "id": 1240,
+    "tools": []
+  },
+  {
+    "id": 1184,
+    "tools": []
+  },
+  {
+    "id": 10655,
+    "tools": []
+  },
+  {
+    "id": 945,
+    "tools": []
+  },
+  {
+    "id": 895,
+    "tools": []
+  },
+  {
+    "id": 1036,
+    "tools": []
+  },
+  {
+    "id": 879,
+    "tools": []
+  },
+  {
+    "id": 1192,
+    "tools": []
+  },
+  {
+    "id": 5180,
+    "tools": []
+  },
+  {
+    "id": 915,
+    "tools": []
+  },
+  {
+    "id": 9097,
+    "tools": []
+  },
+  {
+    "id": 1265,
+    "tools": []
+  },
+  {
+    "id": 860,
+    "tools": []
+  },
+  {
+    "id": 1203,
+    "tools": []
+  },
+  {
+    "id": 3515,
+    "tools": []
+  },
+  {
+    "id": 3143,
+    "tools": []
+  },
+  {
+    "id": 1010,
+    "tools": []
+  },
+  {
+    "id": 7925,
+    "tools": []
+  },
+  {
+    "id": 810,
+    "tools": []
+  },
+  {
+    "id": 893,
+    "tools": []
+  },
+  {
+    "id": 7247,
+    "tools": []
+  },
+  {
+    "id": 1260,
+    "tools": []
+  },
+  {
+    "id": 959,
+    "tools": []
+  },
+  {
+    "id": 1214,
+    "tools": []
+  },
+  {
+    "id": 2620,
+    "tools": []
+  },
+  {
+    "id": 10000,
+    "tools": []
+  },
+  {
+    "id": 1201,
+    "tools": []
+  },
+  {
+    "id": 2696,
+    "tools": []
+  },
+  {
+    "id": 865,
+    "tools": []
+  },
+  {
+    "id": 821,
+    "tools": []
+  },
+  {
+    "id": 1254,
+    "tools": []
+  },
+  {
+    "id": 1484,
+    "tools": []
+  },
+  {
+    "id": 5949,
+    "tools": []
+  },
+  {
+    "id": 876,
+    "tools": []
+  },
+  {
+    "id": 808,
+    "tools": []
+  },
+  {
+    "id": 1064,
+    "tools": []
+  },
+  {
+    "id": 6955,
+    "tools": []
+  },
+  {
+    "id": 1067,
+    "tools": []
+  },
+  {
+    "id": 1052,
+    "tools": []
+  },
+  {
+    "id": 985,
+    "tools": []
+  },
+  {
+    "id": 1166,
+    "tools": []
+  },
+  {
+    "id": 1042,
+    "tools": []
+  },
+  {
+    "id": 1259,
+    "tools": []
+  },
+  {
+    "id": 854,
+    "tools": []
+  },
+  {
+    "id": 1744,
+    "tools": []
+  },
+  {
+    "id": 1156,
+    "tools": []
+  },
+  {
+    "id": 911,
+    "tools": []
+  },
+  {
+    "id": 5688,
+    "tools": []
+  },
+  {
+    "id": 11237,
+    "tools": []
+  },
+  {
+    "id": 4955,
+    "tools": []
+  },
+  {
+    "id": 7832,
+    "tools": []
+  },
+  {
+    "id": 1069,
+    "tools": []
+  },
+  {
+    "id": 1261,
+    "tools": []
+  },
+  {
+    "id": 1107,
+    "tools": []
+  },
+  {
+    "id": 925,
+    "tools": []
+  },
+  {
+    "id": 900,
+    "tools": []
+  },
+  {
+    "id": 846,
+    "tools": []
+  },
+  {
+    "id": 8232,
+    "tools": []
+  },
+  {
+    "id": 1835,
+    "tools": []
+  },
+  {
+    "id": 1272,
+    "tools": []
+  },
+  {
+    "id": 2946,
+    "tools": []
+  },
+  {
+    "id": 818,
+    "tools": []
+  },
+  {
+    "id": 1270,
+    "tools": []
+  },
+  {
+    "id": 1007,
+    "tools": []
+  },
+  {
+    "id": 2984,
+    "tools": []
+  },
+  {
+    "id": 6079,
+    "tools": []
+  },
+  {
+    "id": 806,
+    "tools": []
+  },
+  {
+    "id": 1187,
+    "tools": []
+  },
+  {
+    "id": 1041,
+    "tools": []
+  },
+  {
+    "id": 917,
+    "tools": []
+  },
+  {
+    "id": 7740,
+    "tools": [
+      "search_movie_theaters"
+    ]
+  },
+  {
+    "id": 4637,
+    "tools": [
+      "sector_etf_allocation_optimizer"
+    ]
+  },
+  {
+    "id": 10702,
+    "tools": [
+      "ThreadSafetyMonitor.stopMonitor"
+    ]
+  },
+  {
+    "id": 5814,
+    "tools": [
+      "removeSerialCopy"
+    ]
+  },
+  {
+    "id": 5763,
+    "tools": [
+      "SurfConditionAnalyzer.predictWaveConditions"
+    ]
+  },
+  {
+    "id": 2046,
+    "tools": [
+      "fashion.get_trends"
+    ]
+  },
+  {
+    "id": 7684,
+    "tools": [
+      "optimizeEnzymeFunction"
+    ]
+  },
+  {
+    "id": 2762,
+    "tools": [
+      "disease.outbreak_alert"
+    ]
+  },
+  {
+    "id": 4033,
+    "tools": [
+      "javaDebugger.startDebugSession"
+    ]
+  },
+  {
+    "id": 10204,
+    "tools": [
+      "check_word_frequency"
+    ]
+  },
+  {
+    "id": 5220,
+    "tools": [
+      "search_song"
+    ]
+  },
+  {
+    "id": 5937,
+    "tools": [
+      "artist.biography"
+    ]
+  },
+  {
+    "id": 8734,
+    "tools": [
+      "Get Article Sources"
+    ]
+  },
+  {
+    "id": 1384,
+    "tools": [
+      "DatabaseConstraintValidator.validateData"
+    ]
+  },
+  {
+    "id": 8395,
+    "tools": [
+      "crusher.get_maintenance_schedule"
+    ]
+  },
+  {
+    "id": 2429,
+    "tools": [
+      "initializeDraggableComponents"
+    ]
+  },
+  {
+    "id": 2138,
+    "tools": [
+      "search_vehicles"
+    ]
+  },
+  {
+    "id": 4272,
+    "tools": [
+      "calculate_fitness_level"
+    ]
+  },
+  {
+    "id": 4885,
+    "tools": [
+      "pump.get_seal_replacement_time"
+    ]
+  },
+  {
+    "id": 4545,
+    "tools": [
+      "GetPaymentTypes"
+    ]
+  },
+  {
+    "id": 6766,
+    "tools": [
+      "currency_conversion_calculator"
+    ]
+  },
+  {
+    "id": 9052,
+    "tools": [
+      "cardgame.deck_evaluation"
+    ]
+  },
+  {
+    "id": 4835,
+    "tools": [
+      "play_youtube_video"
+    ]
+  },
+  {
+    "id": 3934,
+    "tools": [
+      "art_exhibition_layout"
+    ]
+  },
+  {
+    "id": 9025,
+    "tools": [
+      "find_max"
+    ]
+  },
+  {
+    "id": 4574,
+    "tools": [
+      "search_documents"
+    ]
+  },
+  {
+    "id": 1538,
+    "tools": [
+      "get_diet_plan"
+    ]
+  },
+  {
+    "id": 7743,
+    "tools": [
+      "timer"
+    ]
+  },
+  {
+    "id": 5044,
+    "tools": [
+      "applyForGrant"
+    ]
+  },
+  {
+    "id": 2067,
+    "tools": [
+      "WebSeriesScriptEditor.editScript"
+    ]
+  },
+  {
+    "id": 7787,
+    "tools": [
+      "video.schedule_conference"
+    ]
+  },
+  {
+    "id": 3120,
+    "tools": [
+      "boutique_inventory.check"
+    ]
+  },
+  {
+    "id": 4246,
+    "tools": [
+      "getLocalizationServices"
+    ]
+  },
+  {
+    "id": 11247,
+    "tools": [
+      "analyze_social_media_sentiment"
+    ]
+  },
+  {
+    "id": 6671,
+    "tools": [
+      "getVoterTurnout"
+    ]
+  },
+  {
+    "id": 9468,
+    "tools": [
+      "getReligionGlobalizationStats"
+    ]
+  },
+  {
+    "id": 10876,
+    "tools": [
+      "WebSeriesScriptEditor.editScript"
+    ]
+  },
+  {
+    "id": 10973,
+    "tools": [
+      "schedule_appointment"
+    ]
+  },
+  {
+    "id": 10843,
+    "tools": [
+      "ski_gear_rental_estimator"
+    ]
+  },
+  {
+    "id": 9639,
+    "tools": [
+      "getEthicsAndPrivacyInformation"
+    ]
+  },
+  {
+    "id": 3181,
+    "tools": [
+      "execute_program"
+    ]
+  },
+  {
+    "id": 4578,
+    "tools": [
+      "getBookStatistics"
+    ]
+  },
+  {
+    "id": 6269,
+    "tools": [
+      "smartHome.setThermostatSchedule"
+    ]
+  },
+  {
+    "id": 8533,
+    "tools": [
+      "dbUpdater.modifyRecord"
+    ]
+  },
+  {
+    "id": 10642,
+    "tools": [
+      "Search Hotels Locations"
+    ]
+  },
+  {
+    "id": 4561,
+    "tools": [
+      "sleep.get_bedtime_routine"
+    ]
+  },
+  {
+    "id": 6277,
+    "tools": [
+      "getCurrentDirection"
+    ]
+  },
+  {
+    "id": 5398,
+    "tools": [
+      "create_guest_list"
+    ]
+  },
+  {
+    "id": 3403,
+    "tools": [
+      "virusImpact.dailyUpdate"
+    ]
+  },
+  {
+    "id": 5009,
+    "tools": [
+      "verifyOwnershipHistory"
+    ]
+  },
+  {
+    "id": 1410,
+    "tools": [
+      "getAdventureTravelDestination"
+    ]
+  },
+  {
+    "id": 4985,
+    "tools": [
+      "product_inventory_check"
+    ]
+  },
+  {
+    "id": 9007,
+    "tools": [
+      "getCompositeStrength"
+    ]
+  },
+  {
+    "id": 1892,
+    "tools": [
+      "MusicEducationScheduler.scheduleLesson"
+    ]
+  },
+  {
+    "id": 1851,
+    "tools": [
+      "generate_thumbnail"
+    ]
+  },
+  {
+    "id": 7520,
+    "tools": [
+      "TemperatureController.setSchedule"
+    ]
+  },
+  {
+    "id": 10185,
+    "tools": [
+      "getUrbanData"
+    ]
+  },
+  {
+    "id": 4462,
+    "tools": [
+      "createTemperatureControlledShipment"
+    ]
+  },
+  {
+    "id": 3078,
+    "tools": [
+      "DatabaseQueryExecutor.executeRangeQuery"
+    ]
+  },
+  {
+    "id": 2085,
+    "tools": [
+      "crypto.token_exchange_rates"
+    ]
+  },
+  {
+    "id": 6054,
+    "tools": [
+      "search_job"
+    ]
+  },
+  {
+    "id": 2836,
+    "tools": [
+      "getPublicityData"
+    ]
+  },
+  {
+    "id": 6287,
+    "tools": [
+      "student_activity_tracker"
+    ]
+  },
+  {
+    "id": 9197,
+    "tools": [
+      "cancelRequest"
+    ]
+  },
+  {
+    "id": 2721,
+    "tools": [
+      "functionalRefactor"
+    ]
+  },
+  {
+    "id": 8000,
+    "tools": [
+      "datastudio.create_report"
+    ]
+  },
+  {
+    "id": 7909,
+    "tools": [
+      "simulate_battle_scenario"
+    ]
+  },
+  {
+    "id": 2870,
+    "tools": [
+      "PumpCavitationPrevention.CavitationRiskAssessment"
+    ]
+  },
+  {
+    "id": 2393,
+    "tools": [
+      "mark_todo_as_complete"
+    ]
+  },
+  {
+    "id": 2283,
+    "tools": [
+      "data_breach_alert"
+    ]
+  },
+  {
+    "id": 6600,
+    "tools": [
+      "fetch_festival_highlights"
+    ]
+  },
+  {
+    "id": 7968,
+    "tools": [
+      "Météo d'aujourd'hui - Niamey, Niger"
+    ]
+  },
+  {
+    "id": 9247,
+    "tools": [
+      "getMaintenanceHistory"
+    ]
+  },
+  {
+    "id": 11130,
+    "tools": [
+      "getUrbanDevelopmentIndexes"
+    ]
+  },
+  {
+    "id": 8223,
+    "tools": [
+      "getRainfall"
+    ]
+  },
+  {
+    "id": 5065,
+    "tools": [
+      "DatabaseConstraintValidator.validateData"
+    ]
+  },
+  {
+    "id": 2587,
+    "tools": [
+      "hobby_club.join_club"
+    ]
+  },
+  {
+    "id": 9820,
+    "tools": [
+      "calculateEnergyLevel"
+    ]
+  },
+  {
+    "id": 3966,
+    "tools": [
+      "refundOrder"
+    ]
+  },
+  {
+    "id": 7617,
+    "tools": [
+      "getRandomFact"
+    ]
+  },
+  {
+    "id": 2843,
+    "tools": [
+      "getDrugDosage"
+    ]
+  },
+  {
+    "id": 1911,
+    "tools": [
+      "SmartContractDeployer.deployContract"
+    ]
+  },
+  {
+    "id": 2667,
+    "tools": [
+      "CaseOutcomeAnalysis.predictOutcome"
+    ]
+  },
+  {
+    "id": 4827,
+    "tools": [
+      "identifyVirus"
+    ]
+  },
+  {
+    "id": 1978,
+    "tools": [
+      "getHistoricalFigure"
+    ]
+  },
+  {
+    "id": 8199,
+    "tools": [
+      "hobby_club.join_club"
+    ]
+  },
+  {
+    "id": 10680,
+    "tools": [
+      "applyDataMiningAlgorithm"
+    ]
+  },
+  {
+    "id": 8096,
+    "tools": [
+      "getEnergyPolicy"
+    ]
+  },
+  {
+    "id": 1785,
+    "tools": [
+      "geneticResearch.mutationAnalysis"
+    ]
+  },
+  {
+    "id": 2653,
+    "tools": [
+      "ArtCollectionAnalysis.getTrendInsights"
+    ]
+  },
+  {
+    "id": 3974,
+    "tools": [
+      "WarTimeline.queryEvent"
+    ]
+  },
+  {
+    "id": 1546,
+    "tools": [
+      "get3PLTrackingInfo"
+    ]
+  },
+  {
+    "id": 4356,
+    "tools": [
+      "movieExplorer.searchByGenre"
+    ]
+  },
+  {
+    "id": 1407,
+    "tools": [
+      "getITGovernanceFramework"
+    ]
+  },
+  {
+    "id": 9391,
+    "tools": [
+      "health.get_sleep_schedule"
+    ]
+  },
+  {
+    "id": 1652,
+    "tools": [
+      "Get Delivery Price"
+    ]
+  },
+  {
+    "id": 1917,
+    "tools": [
+      "getGroundedTheoryResearch"
+    ]
+  },
+  {
+    "id": 9940,
+    "tools": [
+      "study.optimize_schedule"
+    ]
+  },
+  {
+    "id": 3101,
+    "tools": [
+      "wearable.get_activity"
+    ]
+  },
+  {
+    "id": 3015,
+    "tools": [
+      "getLibraryPartnerships"
+    ]
+  },
+  {
+    "id": 5967,
+    "tools": [
+      "getStudentPerformance"
+    ]
+  },
+  {
+    "id": 6064,
+    "tools": [
+      "findEulerianPath"
+    ]
+  },
+  {
+    "id": 5311,
+    "tools": [
+      "calculate_rental_profit"
+    ]
+  },
+  {
+    "id": 8466,
+    "tools": [
+      "getBiochemicalToxicity"
+    ]
+  },
+  {
+    "id": 2920,
+    "tools": [
+      "CourtSessionScheduler.scheduleHearing"
+    ]
+  },
+  {
+    "id": 11234,
+    "tools": [
+      "getCateringMenu"
+    ]
+  },
+  {
+    "id": 4130,
+    "tools": [
+      "getSoilpH"
+    ]
+  },
+  {
+    "id": 4183,
+    "tools": [
+      "convert_temperature"
+    ]
+  },
+  {
+    "id": 10338,
+    "tools": [
+      "generate_evacuation_plan"
+    ]
+  },
+  {
+    "id": 8282,
+    "tools": [
+      "biology.ecology.populationEstimation"
+    ]
+  },
+  {
+    "id": 3640,
+    "tools": [
+      "connectToDatabase"
+    ]
+  },
+  {
+    "id": 4269,
+    "tools": [
+      "getChildStory"
+    ]
+  },
+  {
+    "id": 8113,
+    "tools": [
+      "calculate_loan"
+    ]
+  },
+  {
+    "id": 10977,
+    "tools": [
+      "getWelfareSpending"
+    ]
+  },
+  {
+    "id": 5846,
+    "tools": [
+      "getArtClasses"
+    ]
+  },
+  {
+    "id": 3614,
+    "tools": [
+      "load_analysis.evaluateLoadCapacity"
+    ]
+  },
+  {
+    "id": 3302,
+    "tools": [
+      "EstatePlanning.AssetEvaluation"
+    ]
+  },
+  {
+    "id": 6627,
+    "tools": [
+      "traffic.getTrafficUpdates"
+    ]
+  },
+  {
+    "id": 10610,
+    "tools": [
+      "getTaxRate"
+    ]
+  },
+  {
+    "id": 8759,
+    "tools": [
+      "getNewsHeadlines"
+    ]
+  },
+  {
+    "id": 10391,
+    "tools": [
+      "courseMaterialUploader"
+    ]
+  },
+  {
+    "id": 7680,
+    "tools": [
+      "getWarehouseInformation"
+    ]
+  },
+  {
+    "id": 9762,
+    "tools": [
+      "optimizeExpression"
+    ]
+  },
+  {
+    "id": 11018,
+    "tools": [
+      "search_nearest_gas_station"
+    ]
+  },
+  {
+    "id": 8986,
+    "tools": [
+      "getCryptocurrencyPrice"
+    ]
+  },
+  {
+    "id": 4506,
+    "tools": [
+      "projectManagement.createGanttChart"
+    ]
+  },
+  {
+    "id": 5819,
+    "tools": [
+      "solar_panel_optimizer.optimizeLayout"
+    ]
+  },
+  {
+    "id": 8813,
+    "tools": [
+      "estate.prepare_will"
+    ]
+  },
+  {
+    "id": 2517,
+    "tools": [
+      "legalClauseLibrary"
+    ]
+  },
+  {
+    "id": 11296,
+    "tools": [
+      "search_holidays"
+    ]
+  },
+  {
+    "id": 9272,
+    "tools": [
+      "artGallery.showExhibitions"
+    ]
+  },
+  {
+    "id": 9420,
+    "tools": [
+      "Get Event Incidents"
+    ]
+  },
+  {
+    "id": 6630,
+    "tools": [
+      "voltageDropCalculator.computeDrop"
+    ]
+  },
+  {
+    "id": 2063,
+    "tools": [
+      "health.surgery_schedule"
+    ]
+  },
+  {
+    "id": 10418,
+    "tools": [
+      "search_holidays"
+    ]
+  },
+  {
+    "id": 11043,
+    "tools": [
+      "createMediaProject"
+    ]
+  },
+  {
+    "id": 10137,
+    "tools": [
+      "getChickLitBookDetails"
+    ]
+  },
+  {
+    "id": 1565,
+    "tools": [
+      "add_task_to_todo_list"
+    ]
+  },
+  {
+    "id": 1460,
+    "tools": [
+      "HistogramBuilder.construct"
+    ]
+  },
+  {
+    "id": 7583,
+    "tools": [
+      "exerciseRecommendation"
+    ]
+  },
+  {
+    "id": 2037,
+    "tools": [
+      "book_appointment"
+    ]
+  },
+  {
+    "id": 2695,
+    "tools": [
+      "parenting.single_parent_support_groups"
+    ]
+  },
+  {
+    "id": 5467,
+    "tools": [
+      "add_notes"
+    ]
+  },
+  {
+    "id": 8290,
+    "tools": [
+      "starObservationScheduler"
+    ]
+  },
+  {
+    "id": 6498,
+    "tools": [
+      "AcousticPressureSimulator.simulatePressureWave"
+    ]
+  },
+  {
+    "id": 11114,
+    "tools": [
+      "getHomelessnessCount"
+    ]
+  },
+  {
+    "id": 5539,
+    "tools": [
+      "runHypothesisTest"
+    ]
+  },
+  {
+    "id": 4370,
+    "tools": [
+      "/get_movies_by_director"
+    ]
+  },
+  {
+    "id": 10370,
+    "tools": [
+      "KeywordExtractor.extractKeywords"
+    ]
+  },
+  {
+    "id": 10528,
+    "tools": [
+      "health.vitamin_d_sun_exposure"
+    ]
+  },
+  {
+    "id": 2362,
+    "tools": [
+      "getLeagueTable"
+    ]
+  },
+  {
+    "id": 8892,
+    "tools": [
+      "filter.compare_performance"
+    ]
+  },
+  {
+    "id": 10236,
+    "tools": [
+      "health.prostateEducationMaterials"
+    ]
+  },
+  {
+    "id": 9575,
+    "tools": [
+      "legalClauseLibrary"
+    ]
+  },
+  {
+    "id": 4772,
+    "tools": [
+      "getAssetStatus"
+    ]
+  },
+  {
+    "id": 5250,
+    "tools": [
+      "stockPerformance.queryHistoricalData"
+    ]
+  },
+  {
+    "id": 10725,
+    "tools": [
+      "getFilmAspectRatio"
+    ]
+  },
+  {
+    "id": 7523,
+    "tools": [
+      "AssociationRuleGenerator.generateRules"
+    ]
+  },
+  {
+    "id": 8575,
+    "tools": [
+      "getPoultryWeight"
+    ]
+  },
+  {
+    "id": 1541,
+    "tools": [
+      "getTravelConsultancy"
+    ]
+  },
+  {
+    "id": 4744,
+    "tools": [
+      "find_factorial"
+    ]
+  },
+  {
+    "id": 2275,
+    "tools": [
+      "checkCoverage"
+    ]
+  },
+  {
+    "id": 5855,
+    "tools": [
+      "get_news_headlines"
+    ]
+  },
+  {
+    "id": 4867,
+    "tools": [
+      "TravelAdvisor.getTravelTips"
+    ]
+  },
+  {
+    "id": 5182,
+    "tools": [
+      "energy_efficiency.get_wind_turbine_output"
+    ]
+  },
+  {
+    "id": 2902,
+    "tools": [
+      "advancedFactorialCalculator"
+    ]
+  },
+  {
+    "id": 10762,
+    "tools": [
+      "furnace.calculate_energy_consumption"
+    ]
+  },
+  {
+    "id": 5478,
+    "tools": [
+      "get_song_lyrics"
+    ]
+  },
+  {
+    "id": 11177,
+    "tools": [
+      "get_astrological_sign"
+    ]
+  },
+  {
+    "id": 1739,
+    "tools": [
+      "furnace.calculate_energy_consumption"
+    ]
+  },
+  {
+    "id": 7625,
+    "tools": [
+      "getGeneticAncestry"
+    ]
+  },
+  {
+    "id": 8989,
+    "tools": [
+      "GameInventory.updateStock"
+    ]
+  },
+  {
+    "id": 5734,
+    "tools": [
+      "CalculusAnalysis.calculateLimit"
+    ]
+  },
+  {
+    "id": 2137,
+    "tools": [
+      "dataIntegration.performanceMetrics"
+    ]
+  },
+  {
+    "id": 1672,
+    "tools": [
+      "homogenizer.service_history"
+    ]
+  },
+  {
+    "id": 8191,
+    "tools": [
+      "calculateFriisEquation"
+    ]
+  },
+  {
+    "id": 6261,
+    "tools": [
+      "automate_report_generation"
+    ]
+  },
+  {
+    "id": 1720,
+    "tools": [
+      "brainImaging.get_techniques"
+    ]
+  },
+  {
+    "id": 3554,
+    "tools": [
+      "grantProposal.reviewTimeline"
+    ]
+  },
+  {
+    "id": 6728,
+    "tools": [
+      "vcExitStrategies.evaluateOptions"
+    ]
+  },
+  {
+    "id": 7305,
+    "tools": [
+      "archaeology.discover_sites"
+    ]
+  },
+  {
+    "id": 3048,
+    "tools": [
+      "climate.predict_temperature"
+    ]
+  },
+  {
+    "id": 1697,
+    "tools": [
+      "KeywordExtractor.extractKeywords"
+    ]
+  },
+  {
+    "id": 6455,
+    "tools": [
+      "getAvailableTechnology"
+    ]
+  },
+  {
+    "id": 7585,
+    "tools": [
+      "mediaLiteracy.get_resources"
+    ]
+  },
+  {
+    "id": 3147,
+    "tools": [
+      "PersonalityInsight.fetchTraits"
+    ]
+  },
+  {
+    "id": 9915,
+    "tools": [
+      "database_schema_optimizer"
+    ]
+  },
+  {
+    "id": 5920,
+    "tools": [
+      "legalAidClinic.scheduleAppointment"
+    ]
+  },
+  {
+    "id": 7615,
+    "tools": [
+      "gardening.plant_suggestions"
+    ]
+  },
+  {
+    "id": 3658,
+    "tools": [
+      "getMuseumDesign"
+    ]
+  },
+  {
+    "id": 1149,
+    "tools": [
+      "lens_item"
+    ]
+  },
+  {
+    "id": 6676,
+    "tools": [
+      "generate_random_song"
+    ]
+  },
+  {
+    "id": 10723,
+    "tools": [
+      "getCommercialConstructionInfo"
+    ]
+  },
+  {
+    "id": 2392,
+    "tools": [
+      "SupplierCompliance.verifyCompliance"
+    ]
+  },
+  {
+    "id": 6886,
+    "tools": [
+      "B2B_contract_management_tool"
+    ]
+  },
+  {
+    "id": 5132,
+    "tools": [
+      "theater.seat_availability"
+    ]
+  },
+  {
+    "id": 2279,
+    "tools": [
+      "getNeighborhoodCharacteristics"
+    ]
+  },
+  {
+    "id": 8473,
+    "tools": [
+      "getConstructionLaw"
+    ]
+  },
+  {
+    "id": 6941,
+    "tools": [
+      "getResearchFunding"
+    ]
+  },
+  {
+    "id": 10523,
+    "tools": [
+      "EconomicTrends.compareUnemploymentRates"
+    ]
+  },
+  {
+    "id": 6183,
+    "tools": [
+      "getBellyDanceTechniques"
+    ]
+  },
+  {
+    "id": 7517,
+    "tools": [
+      "furnace.temperature_control"
+    ]
+  },
+  {
+    "id": 5432,
+    "tools": [
+      "calculateBill"
+    ]
+  },
+  {
+    "id": 3373,
+    "tools": [
+      "search_for_product"
+    ]
+  },
+  {
+    "id": 4257,
+    "tools": [
+      "calculate_car_fuel_cost"
+    ]
+  },
+  {
+    "id": 2740,
+    "tools": [
+      "geology.rock_sample_analysis"
+    ]
+  },
+  {
+    "id": 3285,
+    "tools": [
+      "PhoneticTranscription.transcribeText"
+    ]
+  },
+  {
+    "id": 8627,
+    "tools": [
+      "find_nearest_pizza_place"
+    ]
+  },
+  {
+    "id": 8643,
+    "tools": [
+      "issueBook"
+    ]
+  },
+  {
+    "id": 5458,
+    "tools": [
+      "add_task"
+    ]
+  },
+  {
+    "id": 5294,
+    "tools": [
+      "verifyOwnershipHistory"
+    ]
+  },
+  {
+    "id": 2758,
+    "tools": [
+      "getSportsLawExperts"
+    ]
+  },
+  {
+    "id": 3779,
+    "tools": [
+      "extractThumbnail"
+    ]
+  },
+  {
+    "id": 5358,
+    "tools": [
+      "DynamicScaleVisualizer"
+    ]
+  },
+  {
+    "id": 1820,
+    "tools": [
+      "removeSerialCopy"
+    ]
+  },
+  {
+    "id": 7075,
+    "tools": [
+      "agriculture.pest_detection"
+    ]
+  },
+  {
+    "id": 5343,
+    "tools": [
+      "TeaBrewingAssistant.prepareTea"
+    ]
+  },
+  {
+    "id": 8577,
+    "tools": [
+      "predict_insulin_dosage"
+    ]
+  },
+  {
+    "id": 1622,
+    "tools": [
+      "audio.process_sound"
+    ]
+  },
+  {
+    "id": 3681,
+    "tools": [
+      "parse_csv"
+    ]
+  },
+  {
+    "id": 5449,
+    "tools": [
+      "calculate_grade"
+    ]
+  },
+  {
+    "id": 6767,
+    "tools": [
+      "get_temperature"
+    ]
+  },
+  {
+    "id": 5800,
+    "tools": [
+      "add_to_cart"
+    ]
+  },
+  {
+    "id": 6662,
+    "tools": [
+      "remoteWork.setupVirtualOffice"
+    ]
+  },
+  {
+    "id": 7807,
+    "tools": [
+      "monitorPressReleaseCoverage"
+    ]
+  },
+  {
+    "id": 1736,
+    "tools": [
+      "SleepTracker.analyzeSleepPatterns"
+    ]
+  },
+  {
+    "id": 835,
+    "tools": [
+      "income_statement"
+    ]
+  },
+  {
+    "id": 1687,
+    "tools": [
+      "peace_education.get_participants"
+    ]
+  },
+  {
+    "id": 10240,
+    "tools": [
+      "get_definition_by_language"
+    ]
+  },
+  {
+    "id": 9223,
+    "tools": [
+      "commodity_trading_strategy_tool"
+    ]
+  },
+  {
+    "id": 2903,
+    "tools": [
+      "research_careers.get_industry_positions"
+    ]
+  },
+  {
+    "id": 1749,
+    "tools": [
+      "resonance.impedanceCalculator"
+    ]
+  },
+  {
+    "id": 10613,
+    "tools": [
+      "robotics.optimize_path"
+    ]
+  },
+  {
+    "id": 9001,
+    "tools": [
+      "study.optimize_schedule"
+    ]
+  },
+  {
+    "id": 9997,
+    "tools": [
+      "Music_Genre_Classification_Tool"
+    ]
+  },
+  {
+    "id": 7016,
+    "tools": [
+      "createMediaProject"
+    ]
+  },
+  {
+    "id": 5352,
+    "tools": [
+      "jobFinder.searchByCriteria"
+    ]
+  },
+  {
+    "id": 1234,
+    "tools": [
+      "Stock Data"
+    ]
+  }
+]
