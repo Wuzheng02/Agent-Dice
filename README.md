@@ -54,7 +54,7 @@ Where `DATA_JSON` refers to the path of the `data.json` file in the **ToolACE da
 
 ## Dependencies
 
-All training and evaluation is carried out using **llama-factory**. We thank **llama-factory** for their contributions to the community.
+All training is carried out using **llama-factory**. We thank **llama-factory** for their contributions to the community.
 
 * [LlamaFactory Repository](https://github.com/hiyouga/LlamaFactory)
 
